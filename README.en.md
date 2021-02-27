@@ -1,5 +1,4 @@
-# conta-stone-data-challenge 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Logo-Stone.svg/500px-Logo-Stone.svg.png" width=90/>
+# conta-stone-data-challenge <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Logo-Stone.svg/500px-Logo-Stone.svg.png" width=90 align="right"/> 
 
 |<img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png" width=25>|[Ler isto em português](https://github.com/Eric-Mendes/conta-stone-data-challenge/blob/main/README.md "README.md em português")|
 |---|:--|
